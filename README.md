@@ -1,224 +1,206 @@
-# 👋 Hey there, I'm Arjun Yadav!
+<div align="center">
 
-### 💻 CSE Student | 🤖 Learning AI & Machine Learning | 🚀 Building & Exploring
+# 👋 Hi, I'm Arjun Yadav
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Arjun-dev418&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### 💻 CSE Student | 🤖 Aspiring AI & ML Engineer | 🚀 Building & Learning Every Day
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Learning+Artificial+Intelligence+%26+Machine+Learning;Building+Projects+and+Improving+Every+Day;Future+AI%2FML+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 
-## 🚀 About Me
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arjun-dev418&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge)
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
 
 ```python
 class ArjunYadav:
 
     def __init__(self):
         self.role = "Computer Science Engineering Student"
-        self.current_focus = ["Artificial Intelligence", "Machine Learning"]
-        self.interests = [
-            "Software Development",
-            "AI & ML",
-            "Problem Solving",
-            "Building Projects"
+
+        self.skills = [
+            "Python",
+            "SQL / MySQL",
+            "Data Structures & Algorithms"
         ]
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
+        self.currently_learning = [
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI"
+        ]
+
+    def goal(self):
+        return "Build impactful technology and become a skilled AI/ML Engineer 🚀"
 ```
 
-* 🎓 I'm a **Computer Science Engineering student**
-* 🤖 Currently learning **Artificial Intelligence & Machine Learning**
-* 💻 Exploring **software development and real-world projects**
-* 🌱 Continuously improving my programming and problem-solving skills
-* 🚀 Interested in building projects that combine **AI + Software Development**
-* 📫 Always open to learning, collaboration, and new opportunities
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🎓 Education**
+Computer Science Engineering Student
 
-## 🧠 Currently Learning
+**🐍 Comfortable With**
+Python · SQL/MySQL — used across shipped projects
 
-<p align="left">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+**🧮 Sharpening**
+Data Structures & Algorithms
 
-</p>
+**🤖 Currently Learning**
+Machine Learning → Deep Learning → Generative AI
 
-### 🤖 AI & Machine Learning Journey
+</td>
+</tr>
+</table>
 
-```text
-Python Fundamentals       ██████████  Learning
-Data Structures           ███████░░░  Learning
-Machine Learning          ████░░░░░░  Beginner
-Artificial Intelligence   ████░░░░░░  Exploring
-Deep Learning             ██░░░░░░░░  Coming Soon
-```
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-</p>
+**Languages**
 
-### 🌐 Web Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+**Web**
 
-### 🗄️ Databases & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,docker" />
-</p>
+**Database & Tools**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Statistics
+</div>
 
-<p align="center">
+<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjun-dev418&show_icons=true&theme=tokyonight&hide_border=true" />
+## 🤖 AI & ML Learning Journey
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-dev418&theme=tokyonight&hide_border=true" />
+```text
+Python Fundamentals       █████████░░  Solid
+Data Structures & Algo    ███████░░░░  Improving
+Data Analysis             █████░░░░░░  Learning
+Machine Learning          ████░░░░░░░  Exploring
+Deep Learning             ██░░░░░░░░░  Future Goal
+Generative AI             ██░░░░░░░░░  Future Goal
+```
 
-</p>
+<br/>
 
-<p align="center">
+## 🚀 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-dev418&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%">
 
-</p>
+### 🚔 Crime Record Management System
+A database-driven system to manage crimes, criminals, victims, FIRs, and police records.
 
----
+`MySQL` `Database Management` `SQL`
 
-# 🚀 Featured Projects
-
-### 🧠 Crime Record Management System
-
-A database-driven system designed to manage and organize crime records efficiently.
-
-**Technologies:**
-
-`MySQL` `JavaScript` `Database Management`
-
----
+</td>
+<td width="50%">
 
 ### ❤️ Heart Disease Prediction
+A machine learning project analyzing medical data to predict heart disease likelihood.
 
-A machine learning project focused on predicting the possibility of heart disease using patient-related data.
+`Machine Learning` `Data Analysis` `Prediction`
 
-**Concepts:**
-
-`Machine Learning` `Data Analysis` `Prediction Models`
-
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🔍 Search Algorithm Performance Predictor
-
-An AI/ML-based project concept that analyzes different search algorithms and predicts the most suitable algorithm based on problem conditions.
-
-**Algorithms & Concepts:**
+Comparing search algorithms to determine suitable approaches for different problem conditions.
 
 `BFS` `DFS` `A* Algorithm` `Machine Learning`
 
----
+</td>
+<td width="50%">
 
 ### 🎬 Netflix Clone
-
 A web development project inspired by the Netflix user interface.
-
-**Technologies:**
 
 `HTML` `CSS` `JavaScript`
 
----
+</td>
+</tr>
+</table>
 
-## 🗺️ My Learning Roadmap
+<br/>
 
-```mermaid
-flowchart LR
+## 📊 GitHub Statistics
 
-A[💻 Programming Fundamentals]
---> B[📊 Data Structures & Algorithms]
+<div align="center">
 
-B --> C[🐍 Advanced Python]
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arjun-dev418&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-dev418&layout=compact&theme=tokyonight&hide_border=true" />
 
-C --> D[📈 Data Analysis]
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-dev418&theme=tokyonight&hide_border=true" />
 
-D --> E[🤖 Machine Learning]
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-dev418&theme=tokyo-night&hide_border=true" />
 
-E --> F[🧠 Deep Learning]
+</div>
 
-F --> G[🚀 AI Projects]
-```
+<br/>
 
----
+## 🎯 Current Goals
 
-## 🎯 2026 Goals
+- [x] Create my GitHub profile
+- [x] Start building programming projects
+- [ ] Strengthen Data Structures & Algorithms
+- [ ] Learn Machine Learning fundamentals
+- [ ] Build strong AI/ML projects
+- [ ] Learn Deep Learning
+- [ ] Improve my GitHub portfolio
+- [ ] Contribute to open-source projects
 
-* [x] Build my GitHub profile
-* [x] Start learning Python and programming fundamentals
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Learn Machine Learning fundamentals
-* [ ] Build multiple AI/ML projects
-* [ ] Learn Deep Learning
-* [ ] Contribute to open-source projects
-* [ ] Build a strong software engineering portfolio
+<br/>
 
----
+<div align="center">
 
-## 🧩 What I'm Interested In
+## 💡 Learn → Build → Break → Fix → Improve → Repeat
 
-```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-💻 Software Development
-📊 Data Science
-⚡ Algorithms
-🚀 Building Real-World Projects
-```
+> *I believe the best way to learn technology is by building projects, solving problems, making mistakes, and continuously improving.*
 
----
+</div>
 
-## 📈 My Development Philosophy
-
-> **Learn → Build → Break → Fix → Improve → Repeat**
-
-I believe the best way to learn technology is by building projects, solving problems, making mistakes, and continuously improving.
-
----
+<br/>
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/Arjun-dev418">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjun-dev418)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE_WITH_YOUR_EMAIL@example.com)
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+</div>
 
-</p>
+<br/>
 
----
+<div align="center">
 
-<p align="center">
+### ⭐ "Every expert was once a beginner."
 
-### ⭐ *"The journey of becoming an engineer is built one project, one bug, and one lesson at a time."*
+### 🚀 Thanks for visiting my profile!
 
-<br>
-
-**Thanks for visiting my profile! 🚀**
-
-</p>
+</div>
